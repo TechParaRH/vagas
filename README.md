@@ -1,12 +1,12 @@
 <p align="center">
-<img src="https://github.com/techpararh/brand/blob/main/src/png/logo_techpararh.png" width="400" alt="TechParaRH">
+<img src="https://github.com/TechParaRH/vagas/blob/main/brand/logo_techpararh.png" width="400" alt="TechParaRH">
 </p>
 <h1 align="center">Vagas</h1>
 <p align="center">:rocket: Espaço para divulgação de vagas para Tech Recruiters.</p>
 
-# Vagas (Somente vagas de Front-End)
+# Vagas (Somente vagas de Tech Recruiters)
 
-Espaço para a divulgação de vagas para desenvolvedores via _issues_ do Github.
+Espaço para a divulgação de vagas para Tech Recruiters via _issues_ do Github.
 
 Vagas disponíveis em https://github.com/techpararh/vagas/issues
 
