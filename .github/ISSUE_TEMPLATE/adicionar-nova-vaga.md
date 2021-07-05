@@ -1,22 +1,22 @@
 ---
 name: Adicionar nova vaga
 about: Siga todas as instruções do template antes de abrir a vaga. VAGAS FORA DO TEMPLATE SERÃO EXCLUÍDAS.
-title: "[Cidade] Front-end Developer na Nome da Empresa"
+title: "[Cidade] Tech Recruiter na Nome da Empresa"
 
 ---
 
 <!-- 
 ==================================================
-POR FAVOR, SÓ POSTE SE A VAGA FOR PARA FRONT-END!
+POR FAVOR, SÓ POSTE SE A VAGA FOR PARA TECH RECRUITER!
 
 !!! Temos 4 regrinhas básicas: https://git.io/JG3Z9 !!!
 
 Não faça distinção de gênero no título da vaga.
 
-Use: "Front-End Developer" ao invés de 
-"Desenvolvedor Front-End" \o/
+Use: "Tech Recruiter" ao invés de 
+"Recruiter Tech / Recrutamento Tech" \o/
 
-Exemplo: `[São Paulo] Front-End Developer na NOME DA EMPRESA`
+Exemplo: `[São Paulo] Tech Recruiter na NOME DA EMPRESA`
 ==================================================
 -->
 
@@ -33,7 +33,7 @@ Exemplo: Aqui na Corporação ACME somos líderes em...
 
 ## Descrição da vaga
 
-Exemplo: Projeto bazinga em NodeJS, etc.
+Exemplo: Projeto bazinga em RH Ágil, etc.
 
 ## Local
 
@@ -46,11 +46,13 @@ Exemplo: Remoto ou Escritório, [ESTADO], [CIDADE], [BAIRRO]
 - 2 anos de experiência com mongodb e express
 
 **Desejáveis:**
-- conhecimentos em ruby on rails
-- conhecimentos em C#
+- conhecimentos em hunting
+- conhecimentos em sourcer
+- Bom relacionamento
 
 **Diferenciais:**
-- projetos opensource
+- Ter conhecimento de agilidade
+- Métricas de RH
 
 ## Benefícios
 
@@ -69,11 +71,11 @@ Exemplo: Remoto ou Escritório, [ESTADO], [CIDADE], [BAIRRO]
 
 ## Contratação
 
-PJ a combinar
+CLT/PJ a combinar
 
 ## Como se candidatar
 
-Por favor envie um email para email@email.com.br com seu CV anexado - enviar no assunto: Vaga NodeJS
+Por favor envie um email para email@email.com.br com seu CV anexado - enviar no assunto: Tech Recruiters Jr.
 
 ## Tempo médio de feedbacks
 
@@ -98,5 +100,4 @@ E-mail para contato em caso de não haver resposta: feedbacks@empresasuperlegal.
 - Pleno
 - Sênior
 - Especialista
-
 
